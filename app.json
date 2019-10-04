@@ -1,0 +1,13 @@
+{
+  "name": "SMS Sentiment Analysis with Nexmo & Azure Text Analytics",
+  "description": "Example using Azure Text Analytics to analyze SMS messages and determine the sentiment of the text.",
+  "keywords": ["sentiment analysis", "sms", "nodejs", "Azure Text Analytics", "nexmo"],
+  "repository": "https://github.com/nexmo-community/sms-sentiment-azure-js",
+  "env": {
+    "TEXT_ANALYTICS_SUBSCRIPTION_KEY": {
+      "description": "The Subscritption Key from Azure Text Analytics"
+    },
+    "TEXT_ANALYTICS_ENDPOINT": {
+      "description": "The endpoint from Azure Text Analytics",
+    }
+  }
