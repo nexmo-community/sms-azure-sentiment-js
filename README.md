@@ -1,6 +1,6 @@
 # SMS Sentiment Analysis with Azure Text Analyzer
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://nexmo.dev/azure-nexmo-sms-analysis-heroku)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://nexmo.dev/azure-sms-sentiment-heroku)
 
 This example uses Azure Text Analyzer to analyze SMS messages and determine the sentiment of the text.
 
