@@ -11,7 +11,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "@azure/cognitiveservices-textanalytics": "3.0.0",
+    "@azure/cognitiveservices-textanalytics": "4.0.0",
     "@azure/ms-rest-js": "2.0.4",
     "body-parser": "1.18.3",
     "dotenv": "6.2.0",
